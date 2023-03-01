@@ -28,4 +28,4 @@ Output subpage with two buttons should appear:
 Python, Flask (HTML + JS)
 
 ################### Source Code ###################
-https://github.com/letsgamble/Syntax_BeautifierBLR
+https://github.com/letsgamble/Syntax_BeautifierOTHERS
